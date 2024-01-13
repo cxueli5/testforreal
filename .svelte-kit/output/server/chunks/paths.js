@@ -1,4 +1,4 @@
-let base = "/test-port-gh";
+let base = "/testforreal";
 let assets = base;
 const initial = { base, assets };
 function reset() {
