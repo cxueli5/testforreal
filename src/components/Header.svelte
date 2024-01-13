@@ -28,7 +28,7 @@
       ? " py-4 bg-slate-950 border-violet-950"
       : " py-6 bg-transparent border-transparent")}
 >
-  <a href="/">
+  <a href={`${base}/`}>
     <!-- <h1 class="font-medium">
       <b class="font-bold poppins">Chan Xue Li</b>
     </h1> -->
